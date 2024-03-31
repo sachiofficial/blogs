@@ -1,8 +1,8 @@
 .box {
   width: 75%; 
   height: auto; 
-  background-color: #131B30;
-  box-shadow: 0 0 10px 5px black; 
+  background-color: #0b0b0b;
+  box-shadow: 0 0 10px 5px rgb(57, 57, 57); 
   margin-left: 13%; 
   margin-right: 10%;
   margin-top: 150px;
