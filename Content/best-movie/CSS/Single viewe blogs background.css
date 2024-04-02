@@ -82,6 +82,13 @@
   
   }
 
+
+/* Remove blue highlight in mobile view */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
   ::-webkit-scrollbar {
     width: 1px; 
     height: 0px;
